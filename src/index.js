@@ -1,4 +1,5 @@
 require('./ejercicio-1');
+require('./ejercicio-2');
 
 
 
